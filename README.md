@@ -1,124 +1,78 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kuntal</h1>
-<p align="center">
-💻 Backend Developer | Python | Django | FastAPI | REST APIs | MongoDB | PostgreSQL | Real-time Systems | Docker | Firebase Auth
-</p>
+# 👋 Hi, I'm Gaurav Kuntal
+
+🎯 A backend developer with a strong command of Python-based backend frameworks and real-time system design. I build scalable APIs, secure systems, and production-ready platforms using FastAPI, Django, and other modern tools.
 
 ---
 
-## 🧑‍💻 About Me
+### 🧪 Current Project
 
-I’m a passionate Backend Developer with a strong foundation in Python, Django, FastAPI, and scalable architecture design. I love building secure, production-ready applications with real-time capabilities and API-driven architecture.
+🚀 **Chemical Inventory Management System**
 
----
+A real-time inventory platform tailored for laboratories. Built with FastAPI + MongoDB + Firebase, this system ensures chemical compliance, tracking, and security.
 
-## 🧪 Currently Working On: Chemical Inventory Management System
-
-> A full-featured real-time inventory app for laboratories.
-
-### 🔬 Key Features:
-- Role-based access control (Admin, Lab Staff, Viewer)
-- OTP login with CAPTCHA
-- JWT & Firebase-secured backend
-- Real-time inventory tracking
-- Audit trail logging system
-- QR code tagging and filtering
-- Fully integrated with a **React Native** frontend
-
-📌 **Stack**: `FastAPI`, `MongoDB`, `Firebase`, `JWT`, `Docker`, `Uvicorn`
-
-📸 Preview:
-
-<img src="./screenshots/p2.png" width="700" alt="Chemical Inventory App Contact Screen" />
-<img src="./screenshots/p3.png" width="700" alt="Chemical Inventory App Testimonials" />
+- Role-based Access Control (Admin / Lab Staff / Viewer)
+- OTP-based Login with CAPTCHA Verification
+- Secure JWT Authentication & Firebase Integration
+- Audit Trail Logging of all user activity
+- Dynamic filters, QR code support, low-stock alerting
+- Backend connected with React Native frontend via REST APIs
 
 ---
 
-## 🎥 Video Management System
+### 🔧 Tech Stack
 
-> End-to-end encrypted IP camera streaming app with real-time video playback.
+#### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🔧 Features:
-- IP camera streaming (RTSP) via `OpenCV` and `FFmpeg`
-- Secure AES-256 encrypted video storage
-- API support for camera management, recording, playback
-- User role-based access
-- WebSocket for live stream updates
-- JWT-secured login
+#### 🛢 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-📌 **Stack**: `Python`, `Django`, `PostgreSQL`, `FFmpeg`, `OpenCV`, `WebSocket`, `SSL`, `JWT`, `AES`, `SHA-256`
+#### 🧰 Tools & Services
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-000000?style=flat&logo=uvicorn&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
-## 🍔 Restaurant Web App
-
-> A responsive and fully interactive fast-food restaurant platform.
-
-### ✨ Features:
-- User login & table booking system
-- Dynamic menu and discount banners
-- Feedback and contact forms
-- Professional UI/UX
-
-📌 **Stack**: `HTML`, `CSS`, `JavaScript`, `Django`
-
-📸 Preview:
-
-<img src="./screenshots/img1.png" width="700" alt="Home Page" />
-<img src="./screenshots/img2.png" width="700" alt="Offers Section" />
-<img src="./screenshots/img3.png" width="700" alt="Customer Testimonials" />
-<img src="./screenshots/img4.png" width="700" alt="Footer Section" />
+#### 🔐 Security
+- JWT, OAuth2, AES-256 Encryption, SHA-256
+- CAPTCHA, OTP-based Auth, Secure Password Storage
 
 ---
 
-## 🧑‍💼 Employee Management System
+### 📁 Past Projects
 
-> A CRUD-based Django application to manage employee records securely.
+- 🎥 **Video Management System (VMS)**  
+  Live IP camera streaming with FFmpeg & OpenCV, encrypted video storage, playback APIs, and WebSocket-based real-time updates.
 
-📌 **Stack**: `Django`, `SQLite`, `Bootstrap`, `HTML/CSS`
+- 📬 **Email Spam Classifier**  
+  Used NLP and ML to detect spam emails with high accuracy.
 
----
-
-## 💻 Tech Stack
-
-### 🛠 Languages & Frameworks  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 🛢 Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-### 🔧 Tools & Services  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Uvicorn](https://img.shields.io/badge/-Uvicorn-000000?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square)
-
-### 🔐 Security
-- JWT, OAuth2, AES-256, SHA-256
-- CAPTCHA + OTP + Firebase Authentication
+- 💰 **Price Comparison Website**  
+  Scraped product data from multiple eCommerce platforms and normalized for comparison.
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuntalgaurav&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalgaurav&layout=compact&theme=tokyonight)
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://gauravkuntal.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kuntal-276164257)
-- 📧 Email: gauravkmadhuaka@gmail.com
+- ✉️ Email: gauravkmadhuaka@gmail.com
 
 ---
 
-> 🚀 Open to full-time backend roles, freelance contracts, or API-driven collaborations.
-add more pictures
+> ⚙️ Open to full-time roles, remote contracts, or collaborative backend projects in real-time systems, API development, and cloud-native architecture.
+
