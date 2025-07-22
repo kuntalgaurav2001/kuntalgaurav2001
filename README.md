@@ -65,7 +65,7 @@ A real-time inventory platform tailored for laboratories. Built with FastAPI + M
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://gauravkuntal.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kuntal-276164257)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gauravkumarkuntal/)
 - ✉️ Email: gauravkmadhuaka@gmail.com
 
 ---
