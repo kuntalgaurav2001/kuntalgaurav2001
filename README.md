@@ -53,7 +53,7 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
-<img height="32" width="32" src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e4fa2.png" alt="AWS" /> AWS &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> Nginx  
@@ -68,7 +68,7 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 🕷 Web Scraping  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scrapy_logo.png" width="40" /> Scrapy &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scrapy.svg" height="32" width="32" alt="Scrapy" /> Scrapy &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png" width="40" /> BeautifulSoup &nbsp;
 <img src="https://playwright.dev/img/playwright-logo.svg" width="40" /> Playwright  
 </p>
