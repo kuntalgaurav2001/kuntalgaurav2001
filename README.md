@@ -52,7 +52,6 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 
 🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonwebservices.svg" height="32" width="32" alt="AWS" /> AWS &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
@@ -70,9 +69,7 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scrapy.svg" height="32" width="32" alt="Scrapy" /> Scrapy &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/beautifulsoup.svg" height="32" width="32" alt="BeautifulSoup" /> BeautifulSoup &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/playwright.svg" height="32" width="32" alt="Playwright" /> Playwright  
-</p>
+
 
 🤖 AI / ML / Data Analysis  
 <p> 
