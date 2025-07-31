@@ -53,7 +53,7 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws" height="40" width="40"/> AWS &nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazon.svg" alt="Amazon (AWS)" /> AWS &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;
