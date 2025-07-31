@@ -1,9 +1,7 @@
 👋 Hi, I'm Gaurav Kuntal
-
 🏏 A backend developer with a strong command of Python-based backend frameworks and real-time system design. I build scalable APIs, secure systems, and production-ready platforms using FastAPI, Django, and other modern tools.
 
-🦪 Current Project
-
+🧪 Current Project
 🚀 Chemical Inventory Management System
 
 A real-time inventory platform tailored for laboratories. Built with FastAPI + MongoDB + Firebase, this system ensures chemical compliance, tracking, and security.
@@ -40,75 +38,24 @@ Used Python’s logging module and custom middlewares for security and logging
 Dockerized the application and used Uvicorn + Gunicorn for deployment
 
 🔧 Tech Stack
-
 💻 Languages & Frameworks
-
-
-
-
-
-
-
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" /> Django &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /> FastAPI &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> React Native </p>
 🗂️ Databases
-
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> MySQL </p>
 🛠 Tools & Services
-
-
-
-
-
-
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> GitHub &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> Nginx </p>
 🕷 Web Scraping
-
-
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp; <img src="https://static-00.iconduck.com/assets.00/scrapy-icon-2048x2048-1kt3ykri.png" width="40" /> Scrapy &nbsp; <img src="https://static-00.iconduck.com/assets.00/beautifulsoup-icon-2048x2048-9n7kvv09.png" width="40" /> BeautifulSoup &nbsp; <img src="https://static-00.iconduck.com/assets.00/playwright-icon-512x512-gtrr5lfk.png" width="40" /> Playwright </p>
 🤖 AI / ML / Data Analysis
-
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> NumPy &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> Pandas &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" /> Scikit-learn &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /> Matplotlib </p>
 🎥 Media & CV Tools
-
-
-
-
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" /> OpenCV &nbsp; <img src="https://seeklogo.com/images/F/ffmpeg-logo-5B05ECCA05-seeklogo.com.png" width="40" /> FFmpeg &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" /> WebSocket </p>
 🔐 Security
-
-
-
-
-
-
-
-
-
+<p> <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" /> AES-256 &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/618/618528.png" width="40" /> JWT Auth &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/10043/10043668.png" width="40" /> pycryptodome &nbsp; <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="40" /> Captcha </p>
 📁 Past Projects
-
 🎥 Video Management System (VMS)
-
-A full-stack solution designed to stream, record, and manage video feeds from multiple IP cameras. Built using Django, FFmpeg, and OpenCV, the system enables:
+A full-stack solution designed to stream, record, and manage video feeds from multiple IP cameras.
+Built with Django, FFmpeg, and OpenCV
 
 Real-time video streaming via WebSockets
 
@@ -119,36 +66,18 @@ Playback APIs for recorded footage
 Role-based access and activity logs
 
 📬 Email Spam Classifier
-
-A machine learning project that classifies emails as spam or not spam using NLP techniques. Key aspects include:
-
-Text preprocessing (tokenization, stemming)
-
-Feature extraction with TF-IDF
-
-Classification using Naive Bayes and Logistic Regression
-
-Accuracy and precision optimization using scikit-learn
+A machine learning project that classifies emails as spam or not spam using NLP.
+Tech: Python, Pandas, Scikit-learn, TF-IDF, Naive Bayes
 
 💰 Price Comparison Website
-
-A web scraping-based project for aggregating product prices across multiple e-commerce sites (Amazon, Flipkart, Snapdeal). Features:
-
-Scrapy & BeautifulSoup for data extraction
-
-Data normalization and filtering
-
-Display engine to compare product specs and prices
-
-Alert system for price drops or availability
+A web scraping-based project to compare prices across e-commerce platforms.
+Tech: Scrapy, BeautifulSoup, Playwright
 
 📩 Let's Connect
-
 🌐 Portfolio Website
 
 💼 LinkedIn
 
 ✉️ Email: gauravkmadhuaka@gmail.com
 
-⚙️ Open to full-time roles, remote contracts, or collaborative backend projects in real-time systems, API development, and cloud-native architecture.
-
+Open to: full-time roles, remote contracts, or collaborative backend projects in real-time systems, API development, and cloud-native architecture.
