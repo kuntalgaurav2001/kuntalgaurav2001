@@ -52,6 +52,7 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 
 🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amazonwebservices.svg" height="32" width="32" alt="AWS" /> AWS &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
@@ -69,22 +70,22 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scrapy.svg" height="32" width="32" alt="Scrapy" /> Scrapy &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png" width="40" /> BeautifulSoup &nbsp;
-<img src="https://playwright.dev/img/playwright-logo.svg" width="40" /> Playwright  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/beautifulsoup.svg" height="32" width="32" alt="BeautifulSoup" /> BeautifulSoup &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/playwright.svg" height="32" width="32" alt="Playwright" /> Playwright  
 </p>
 
 🤖 AI / ML / Data Analysis  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> NumPy &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> Pandas &nbsp;
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" /> Scikit-learn &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/scikitlearn.svg" height="32" width="32" alt="Scikit‑learn" /> Scikit-learn &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /> Matplotlib  
 </p>
 
 🎥 Media & CV Tools  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" /> OpenCV &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.png" width="40" /> FFmpeg &nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/ffmpeg.svg" height="32" width="32" alt="FFmpeg" /> FFmpeg &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" /> WebSocket  
 </p>
 
