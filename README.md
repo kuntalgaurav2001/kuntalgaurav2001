@@ -47,16 +47,24 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /> MongoDB &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> PostgreSQL &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" /> Redis 
 </p>
 
-🛠 Tools & Services  
+🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> GitHub &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> Nginx  
+</p>
+
+🔗 APIs & Background Tasks  
+<p> 
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40" /> RESTful APIs &nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/3276/3276453.png" width="40" /> Celery  
 </p>
 
 🕷 Web Scraping  
