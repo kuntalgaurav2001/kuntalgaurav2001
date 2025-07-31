@@ -53,11 +53,10 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 🛠 Tools & Services  | ☁️ Cloud & DevOps  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> Docker &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> AWS &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />AWS &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> Git &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> Firebase &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> Linux &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> GitHub &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> Nginx  
 </p>
 
@@ -70,23 +69,23 @@ This system helps labs manage their chemical stock digitally. Admins can assign 
 🕷 Web Scraping  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python &nbsp;
-<img src="https://static-00.iconduck.com/assets.00/scrapy-icon-2048x2048-1kt3ykri.png" width="40" /> Scrapy &nbsp;
-<img src="https://static-00.iconduck.com/assets.00/beautifulsoup-icon-2048x2048-9n7kvv09.png" width="40" /> BeautifulSoup &nbsp;
-<img src="https://static-00.iconduck.com/assets.00/playwright-icon-512x512-gtrr5lfk.png" width="40" /> Playwright  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scrapy_logo.png" width="40" /> Scrapy &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Beautiful_Soup_Logo.png" width="40" /> BeautifulSoup &nbsp;
+<img src="https://playwright.dev/img/playwright-logo.svg" width="40" /> Playwright  
 </p>
 
 🤖 AI / ML / Data Analysis  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> NumPy &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> Pandas &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" /> Scikit-learn &nbsp;
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" /> Scikit-learn &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /> Matplotlib  
 </p>
 
 🎥 Media & CV Tools  
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" /> OpenCV &nbsp;
-<img src="https://seeklogo.com/images/F/ffmpeg-logo-5B05ECCA05-seeklogo.com.png" width="40" /> FFmpeg &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.png" width="40" /> FFmpeg &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="40" /> WebSocket  
 </p>
 
