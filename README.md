@@ -74,9 +74,9 @@ A web scraping-based project to compare prices across e-commerce platforms.
 Tech: Scrapy, BeautifulSoup, Playwright
 
 📩 Let's Connect
-🌐 Portfolio Website
+🌐 [Portfolio Website]((https://gauravkuntal.netlify.app/))
 
-💼 LinkedIn
+💼 [LinkedIn]((https://www.linkedin.com/in/gauravkumarkuntal/))
 
 ✉️ Email: gauravkmadhuaka@gmail.com
 
